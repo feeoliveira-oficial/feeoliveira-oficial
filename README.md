@@ -4,12 +4,18 @@ My diverse educational background includes a Mechatronic Technician certificatio
 
 ## A briefing about me
 My competences and knowledge embrace these followed areas:<br>
-•	Programming languages: Python, SQL, MySQL, Java, C#, PHP, MySQL, Microsoft SQL Server.<br>
-•	Microsoft Office 365<br>
-•	Power BI<br>
-•	Front end: JavaScript, WordPress, HTML, CSS.
+•	Programming languages:<br>
+- ![](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)<br>
+- ![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)<br>
+- ![](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)<br>
+- ![](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)<br>
+- ![](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)<br>
+- ![](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)<br>
+- ![](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)<br>
+- ![](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)<br>
+- Power BI<br>
 
-## Be my guest and contact Me
+## How to contact Me
 <div align="left">
   <a href="https://www.linkedin.com/in/felipe-oliveira-dos-santos-2612f88/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
@@ -21,10 +27,9 @@ My competences and knowledge embrace these followed areas:<br>
 
 ## My Github stats
 <center>
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feeoliveira-oficial)
-
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feeoliveira-oficial)
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feeoliveira-oficial)
-
+  
+  ![felipe](https://github-readme-stats.vercel.app/api?username=feeoliveira-oficial&theme=gruvbox&show_icons=true)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feeoliveira-oficial)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feeoliveira-oficial)
+  ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feeoliveira-oficial)
 </center>
