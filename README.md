@@ -25,6 +25,8 @@ My competences and knowledge embrace these followed areas:<br>
   </a>
 </div>
 
+## Food, Traveling and Programming here ⤵️
+[![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feeoliveira.oficial/)
 ## My Github stats
 <center>
   
