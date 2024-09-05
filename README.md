@@ -16,17 +16,12 @@ My competences and knowledge embrace these followed areas:<br>
 - Power BI<br>
 
 ## How to contact Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/felipe-oliveira-dos-santos-2612f88/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"/>
-  </a>
-  <a href="feeoliveirasantoss@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"/>
-  </a>
-</div>
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](feeoliveirasantoss@gmail.com)
+[![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-dos-santos-2612f88/)
 
 ## Food, Traveling and Programming here ⤵️
 [![](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/feeoliveira.oficial/)
+
 ## My Github stats
 <center>
   
