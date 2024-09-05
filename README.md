@@ -16,7 +16,7 @@ My competences and knowledge embrace these followed areas:<br>
 - Power BI<br>
 
 ## How to contact Me
-[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](feeoliveirasantoss@gmail.com)
+[![](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:feeoliveirasantoss@gmail.com)
 [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/felipe-oliveira-dos-santos-2612f88/)
 
 ## Food, Traveling and Programming here ⤵️
