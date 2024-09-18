@@ -25,7 +25,7 @@ My competences and knowledge embrace these followed areas:<br>
 ## My Github stats
 <center>
   
-  ![felipe](https://github-readme-stats.vercel.app/api?username=feeoliveira-oficial&theme=gruvbox&show_icons=true)
+  ![felipe](https://github-readme-stats.vercel.app/api?username=feeoliveira-oficial&theme=dracula&show_icons=true)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=feeoliveira-oficial)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=feeoliveira-oficial)
   ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=feeoliveira-oficial)
